@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="runner.TestRunner" time="0.054" tests="128" errors="0" skipped="0" failures="0">
+<testsuite name="runner.TestRunner" time="0.04" tests="128" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\codegator\batch08-workspace\com.project.cucumber"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/codegator/batch08-workspace/com.project.cucumber"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -25,24 +25,26 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\codegator\batch08-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf17587858605955462568.tmp"/>
+    <property name="classworlds.conf" value="C:/Users/codegator/Downloads/maven/maven/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-11.0.10/bin/server;C:/Program Files/Java/jdk-11.0.10/bin;C:\App\db_home\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files\Rockwell Software\RSCommon;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Salesforce CLI\bin;C:\Program Files\nodejs\;C:\Users\codegator\Downloads\maven\maven\bin;C:\Program Files\dotnet\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.10\bin;C:\Program Files (x86)\Touch Portal\plugins\adb\platform-tools;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\maven\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Users\codegator\AppData\Local\Microsoft\WindowsApps;C:\Users\codegator\AppData\Local\GitHubDesktop\bin;;C:\Users\codegator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\codegator\Desktop;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\codegator\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\codegator\bin;C:\App\db_home\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files\Rockwell Software\RSCommon;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Salesforce CLI\bin;C:\Program Files\nodejs;C:\Users\codegator\Downloads\maven\maven\bin;C:\Program Files\dotnet;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\dotnet;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Java\jdk-11.0.10\bin;C:\Program Files (x86)\Touch Portal\plugins\adb\platform-tools;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\maven\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Users\codegator\AppData\Local\Microsoft\WindowsApps;C:\Users\codegator\AppData\Local\GitHubDesktop\bin;C:\Users\codegator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/Users/codegator/Downloads/maven/maven/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/Users/codegator/Downloads/maven/maven/lib/jansi-native"/>
     <property name="user.home" value="C:\Users\codegator"/>
     <property name="user.timezone" value="America/New_York"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="java.specification.version" value="11"/>
     <property name="user.name" value="codegator"/>
-    <property name="java.class.path" value="C:\Users\codegator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.18.1.20211011-2139\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.class.path" value="C:/Users/codegator/Downloads/maven/maven/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-11.0.10"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -50,24 +52,26 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="11.0.10"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\codegator\batch08-workspace\com.project.cucumber\EMBEDDED"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="maven.home" value="C:\Users\codegator\Downloads\maven\maven"/>
     <property name="file.separator" value="\"/>
     <property name="java.version.date" value="2021-01-19"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 1" time="0.002"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 1" time="0"/>
-  <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 1" time="0.004"/>
+  <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 1" time="0.001"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 1" time="0"/>
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 1" time="0"/>
-  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 1" time="0"/>
-  <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 1" time="0.002"/>
-  <testcase name="Scenario: Login using valid credentials 1" classname="Scenario: Login using valid credentials 1" time="0.004"/>
+  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 1" time="0.001"/>
+  <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 1" time="0"/>
+  <testcase name="Scenario: Login using valid credentials 1" classname="Scenario: Login using valid credentials 1" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 2" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 2" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 2" time="0"/>
@@ -75,26 +79,26 @@
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 2" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 2" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 2" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 2" classname="Scenario: Login using valid credentials 2" time="0.005"/>
+  <testcase name="Scenario: Login using valid credentials 2" classname="Scenario: Login using valid credentials 2" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 3" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 3" time="0"/>
-  <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 3" time="0.002"/>
+  <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 3" time="0"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 3" time="0"/>
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 3" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 3" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 3" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 3" classname="Scenario: Login using valid credentials 3" time="0.01"/>
+  <testcase name="Scenario: Login using valid credentials 3" classname="Scenario: Login using valid credentials 3" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 4" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 4" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 4" time="0"/>
-  <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 4" time="0.001"/>
+  <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 4" time="0"/>
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 4" time="0"/>
-  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 4" time="0.001"/>
+  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 4" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 4" time="0"/>
   <testcase name="Scenario: Login using valid credentials 4" classname="Scenario: Login using valid credentials 4" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 5" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 5" time="0"/>
-  <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 5" time="0"/>
+  <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 5" time="0.001"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 5" time="0"/>
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 5" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 5" time="0"/>
@@ -107,7 +111,7 @@
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 6" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 6" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 6" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 6" classname="Scenario: Login using valid credentials 6" time="0.001"/>
+  <testcase name="Scenario: Login using valid credentials 6" classname="Scenario: Login using valid credentials 6" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 7" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 7" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 7" time="0"/>
@@ -116,14 +120,14 @@
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 7" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 7" time="0"/>
   <testcase name="Scenario: Login using valid credentials 7" classname="Scenario: Login using valid credentials 7" time="0"/>
-  <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 8" time="0.001"/>
+  <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 8" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 8" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 8" time="0"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 8" time="0"/>
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 8" time="0"/>
-  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 8" time="0.005"/>
-  <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 8" time="0.001"/>
-  <testcase name="Scenario: Login using valid credentials 8" classname="Scenario: Login using valid credentials 8" time="0.002"/>
+  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 8" time="0"/>
+  <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 8" time="0"/>
+  <testcase name="Scenario: Login using valid credentials 8" classname="Scenario: Login using valid credentials 8" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 9" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 9" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 9" time="0"/>
@@ -131,7 +135,7 @@
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 9" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 9" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 9" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 9" classname="Scenario: Login using valid credentials 9" time="0.001"/>
+  <testcase name="Scenario: Login using valid credentials 9" classname="Scenario: Login using valid credentials 9" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 10" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 10" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 10" time="0"/>
@@ -148,19 +152,19 @@
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 11" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 11" time="0"/>
   <testcase name="Scenario: Login using valid credentials 11" classname="Scenario: Login using valid credentials 11" time="0.001"/>
-  <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 12" time="0"/>
+  <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 12" time="0.001"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 12" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 12" time="0"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 12" time="0"/>
   <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 12" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 12" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 12" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 12" classname="Scenario: Login using valid credentials 12" time="0.001"/>
-  <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 13" time="0.001"/>
+  <testcase name="Scenario: Login using valid credentials 12" classname="Scenario: Login using valid credentials 12" time="0"/>
+  <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 13" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 13" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 13" time="0"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 13" time="0"/>
-  <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 13" time="0.001"/>
+  <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 13" time="0"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 13" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 13" time="0"/>
   <testcase name="Scenario: Login using valid credentials 13" classname="Scenario: Login using valid credentials 13" time="0"/>
@@ -168,10 +172,10 @@
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 14" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 14" time="0"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 14" time="0"/>
-  <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 14" time="0"/>
+  <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 14" time="0.031"/>
   <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 14" time="0"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 14" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 14" classname="Scenario: Login using valid credentials 14" time="0.001"/>
+  <testcase name="Scenario: Login using valid credentials 14" classname="Scenario: Login using valid credentials 14" time="0"/>
   <testcase name="Given I open chrome browser" classname="Scenario: Login using valid credentials 15" time="0"/>
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 15" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 15" time="0"/>
@@ -184,8 +188,8 @@
   <testcase name="When I visit the qa environment" classname="Scenario: Login using valid credentials 16" time="0"/>
   <testcase name="Then I should be on the login page" classname="Scenario: Login using valid credentials 16" time="0.001"/>
   <testcase name="And I enter &quot;batch08@codegator.us.basic&quot; username" classname="Scenario: Login using valid credentials 16" time="0"/>
-  <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 16" time="0.001"/>
-  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 16" time="0"/>
+  <testcase name="And I enter &quot;Welcome2&quot; password" classname="Scenario: Login using valid credentials 16" time="0"/>
+  <testcase name="When I click the login button" classname="Scenario: Login using valid credentials 16" time="0.001"/>
   <testcase name="Then I should see the home page" classname="Scenario: Login using valid credentials 16" time="0"/>
-  <testcase name="Scenario: Login using valid credentials 16" classname="Scenario: Login using valid credentials 16" time="0.005"/>
+  <testcase name="Scenario: Login using valid credentials 16" classname="Scenario: Login using valid credentials 16" time="0"/>
 </testsuite>

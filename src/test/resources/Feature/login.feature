@@ -48,7 +48,6 @@ Feature: Test login functionality
     When I click the login button
     Then I should see the home page
 
-
   Scenario: Login using valid credentials 8
     And I enter "batch08@codegator.us.basic" username
     And I enter "Welcome2" password
@@ -66,7 +65,6 @@ Feature: Test login functionality
     And I enter "Welcome2" password
     When I click the login button
     Then I should see the home page
-
 
   Scenario: Login using valid credentials 11
     And I enter "batch08@codegator.us.basic" username
@@ -99,6 +97,12 @@ Feature: Test login functionality
     Then I should see the home page
 
   Scenario: Login using valid credentials 16
+    And I enter "batch08@codegator.us.basic" username
+    And I enter "Welcome2" password
+    When I click the login button
+    Then I should see the home page
+
+  Scenario: Login using valid credentials 17
     And I enter "batch08@codegator.us.basic" username
     And I enter "Welcome2" password
     When I click the login button
